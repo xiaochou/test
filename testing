@@ -1,2 +1,8 @@
-import time
-print time.asctime()
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+</html>
